@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Bi Yandong"
   uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  email       : "biyandong@ouc.edu.cn"
+  bio         : "A doctoral graduate in the Department of Geotechnical Engineering at Tongji University, I am currently conducting postdoctoral research at the Ocean University of China."
+  avatar      : "/images/byd.jpg"
+  twitter     : #"name"
+  google_plus : #"Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
