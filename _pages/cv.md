@@ -11,26 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geological Engineering, Tongji University, 2019-2025 (Supervisor: Professor Huang Yu)
+* B.S. in Environmental Engineering , Ocean University of China, 2015-2019 (Supervisor: Professor Shan Hongxian)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2025.7-2027.7: Postdoctoral research
+  * Ocean University of China
+  * Co-supervisor: Professor Jia Yonggang
   
 Skills
 ======
