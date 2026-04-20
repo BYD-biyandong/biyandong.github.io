@@ -20,14 +20,14 @@ Work experience
   * Ocean University of China
   * Co-supervisor: Professor Jia Yonggang
   
-Skills
+Research interests 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Submarine landslides 
+* Wave-induced liquefaction
+* Seabed or submarine slope instability
+* Numerical simulation
+  * DEM
+  * CFD-DEM
 
 Publications
 ======
