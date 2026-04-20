@@ -9,7 +9,7 @@ venue: 'Computers and Geotechnics 195, 108049'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://github.com/BYD-biyandong/biyandong.github.io/blob/master/files/Zhou-2026-CG.pdf'
 bibtexurl: 'https://github.com/BYD-biyandong/biyandong.github.io/blob/master/files/Zhou-2026-CG.bib'
-citation: '<b>Zhou, S</b><sup>†</sup>., <b>Bi Y</b><sup>†</sup>., Tan, X., Guo, Z., Zhu, C., Sun, J., <b>Huang, Y<b><sup>*</sup>., 2026. Inter-particle friction effects on submarine landslide dynamics: LBM-DEM simulations of low-aspect-ratio submerged granular collapse. Computers and Geotechnics 195, 108049. https://doi.org/10.1016/j.compgeo.2026.108049
+citation: 'Zhou, S<sup>†</sup>., Bi Y<sup>†</sup>., Tan, X., Guo, Z., Zhu, C., Sun, J., Huang, Y<sup>*</sup>., 2026. Inter-particle friction effects on submarine landslide dynamics: LBM-DEM simulations of low-aspect-ratio submerged granular collapse. Computers and Geotechnics 195, 108049. https://doi.org/10.1016/j.compgeo.2026.108049
 '
 ---
 
