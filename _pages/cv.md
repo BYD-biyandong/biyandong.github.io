@@ -23,8 +23,8 @@ Work experience
 Research interests 
 ======
 * Submarine landslides 
-* Wave-induced liquefaction
-* Seabed or submarine slope instability
+* Wave-induced liquefaction/Seabed or submarine slope instability
+* Gebris flows/Granular flows
 * Numerical simulation
   * DEM
   * CFD-DEM
