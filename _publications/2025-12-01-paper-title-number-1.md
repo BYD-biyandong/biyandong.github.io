@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2025-12-01
 venue: 'Journal 1'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/Bi-2025.pdf'
+paperurl: 'https://github.com/BYD-biyandong/biyandong.github.io/files/Bi-2025.pdf'
 bibtexurl: #'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Bi, Y., Zhou, S., Tan, X., Guo, Z., Zhu, C., Sun, J., Huang, Y., 2025. Experimental investigation of effects of clay content on wave-induced failure of loosely-deposited submarine slopes. Engineering Geology 359, 108446. https://doi.org/10.1016/j.enggeo.2025.108446
 '
