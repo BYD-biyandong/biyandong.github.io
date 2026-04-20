@@ -9,7 +9,7 @@ venue: 'Engineering Geology 313, 106957'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://github.com/BYD-biyandong/biyandong.github.io/blob/master/files/Bi-2023-EG.pdf'
 bibtexurl: 'https://github.com/BYD-biyandong/biyandong.github.io/blob/master/files/Bi-2023-EG.bib'
-citation: 'Huang, Y., Bi, Y., Zhang, B., 2023. DEM investigation of the interaction between rapid dry granular flow and dual-slit structures. Engineering Geology 313, 106957. https://doi.org/10.1016/j.enggeo.2022.106957
+citation: 'Huang, Y<sup>*</sup>., Bi, Y., Zhang, B., 2023. DEM investigation of the interaction between rapid dry granular flow and dual-slit structures. Engineering Geology 313, 106957. https://doi.org/10.1016/j.enggeo.2022.106957
 '
 ---
 
