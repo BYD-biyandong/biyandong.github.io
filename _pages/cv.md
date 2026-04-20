@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geological Engineering, Tongji University, 2019-2025 (Supervisor: Professor Huang Yu)
-* B.S. in Environmental Engineering , Ocean University of China, 2015-2019 (Supervisor: Professor Shan Hongxian)
+* Ph.D in Geological Engineering, Tongji University, 2019-2025 (Supervisor: Professor <b>Huang Yu</b>)
+* B.S. in Environmental Engineering , Ocean University of China, 2015-2019 (Supervisor: Professor <b>Shan Hongxian</b>)
 
 Work experience
 ======
 * 2025.7-2027.7: Postdoctoral research
   * Ocean University of China
-  * Co-supervisor: Professor Jia Yonggang
+  * Co-supervisor: Professor <b>Jia Yonggang</b>
   
 Research interests 
 ======
